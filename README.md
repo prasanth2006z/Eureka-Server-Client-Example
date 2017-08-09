@@ -11,3 +11,8 @@ Once you run client application, It will register into Eureka Server and shown b
 
 ![Screenshot](/screenshots/Eureka_Client.jpg?raw=true "Authn Server")
 
+Happy Learning!!!
+
+Coming next: https://github.com/prasanth2006z/Spring-Eureka-Zipkin-Zuul-Example
+
+
